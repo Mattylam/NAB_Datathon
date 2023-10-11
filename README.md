@@ -4,12 +4,6 @@
 This repository contains our submission for the NAB Datathon, where our team, "Team GPT," secured 3rd place.
 
 ## Project Overview
-We did # NAB Datathon - Team GPT (3rd Place)
-
-## Introduction
-This repository contains our submission for the NAB Datathon, where our team, "Team GPT," secured 3rd place. 
-
-## Project Overview
 Deriving insights about national waste management database. 
 Clean and preprocess data and make sure its ready for analysis
 Identify potential correlations or dependencies in the data
