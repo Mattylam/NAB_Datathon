@@ -54,7 +54,7 @@ Preprocess_data.ipynb processes the Database file so we can do better data analy
 It also only contains mining data from 2018-2021. 
 
 ## Data Analysis
-Describe the data analysis techniques and approaches used in NAB_Datathon. 
+Shown in NAB Presentation.pptx
 
 Enjoy exploring our NAB Datathon project!
 
