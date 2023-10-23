@@ -3,6 +3,12 @@
 ## Introduction
 This repository contains our submission for the NAB Datathon, where our team, "Team GPT," secured 3rd place.
 
+Team member
+Matthew Lam Lamlonghei888@gmail.com
+Eric Kim
+Robbie
+Syukron
+
 ## Project Overview
 Deriving insights about national waste management database. 
 Clean and preprocess data and make sure its ready for analysis
