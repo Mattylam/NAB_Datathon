@@ -5,7 +5,7 @@ This repository contains our submission for the NAB Datathon, where our team, "T
 
 Team member
 
-Matthew Lam Lamlonghei888@gmail.com
+Matthew Lam: Lamlonghei888@gmail.com
 
 Eric Kim
 
