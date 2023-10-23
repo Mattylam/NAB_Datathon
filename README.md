@@ -4,9 +4,13 @@
 This repository contains our submission for the NAB Datathon, where our team, "Team GPT," secured 3rd place.
 
 Team member
+
 Matthew Lam Lamlonghei888@gmail.com
+
 Eric Kim
+
 Robbie
+
 Syukron
 
 ## Project Overview
